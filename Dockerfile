@@ -25,3 +25,6 @@ RUN npm install
 COPY . /usr/src/app
 
 EXPOSE 8080
+
+# defined in package.json
+CMD [ "npm", "start"]
