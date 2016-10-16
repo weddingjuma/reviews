@@ -5,7 +5,7 @@
 
 
 # Setting The Base Image to Use
-FROM dockerfile/ubuntu
+FROM node:latest
 
 # Defining The Maintainer (Author)
 MAINTAINER William Ondeng'e
