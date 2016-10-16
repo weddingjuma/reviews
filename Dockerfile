@@ -6,3 +6,6 @@
 
 # Setting The Base Image to Use
 FROM dockerfile/ubuntu
+
+# Defining The Maintainer (Author)
+MAINTAINER William Ondeng'e
